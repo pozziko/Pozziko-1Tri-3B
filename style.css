@@ -2,11 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
 :root{
-    --cor-de-fundo:#A52A2A;
+    --cor-de-fundo:#ce0303;
     --branco:#FFFFFF;
-    --preto:#000000;
-    --botao-ativo:#000000be;
-    --botao: #e29696;
+    --preto:#7e7e7e;
+    --botao-ativo:#7e7d7dbe;
+    --botao: #000000;
     --botao-inativo: #FFFFFF;
 }
 
